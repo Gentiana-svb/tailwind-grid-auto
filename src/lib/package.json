@@ -1,5 +1,12 @@
 {
 	"name": "tailwind-grid-auto",
+	"description": "Plugin for Tailwind CSS that automatically sets the grid width.",
+	"keywords": [
+		"tailwind",
+		"css",
+		"plugin",
+		"grid"
+	],
 	"version": "0.0.4",
 	"license": "MIT",
 	"repository": {
