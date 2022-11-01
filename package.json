@@ -2,6 +2,8 @@
 	"name": "tailwind-grid-auto",
 	"version": "0.0.2",
 	"type": "module",
+	"main": "index.cjs",
+	"types": "index.d.cts",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
