@@ -4,5 +4,5 @@ module.exports = {
 	theme: {
 		extend: {}
 	},
-	plugins: [require('./src/lib/index.cjs')]
+	plugins: [require('./src/lib')]
 }
